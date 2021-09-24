@@ -1,11 +1,11 @@
 # Hello World
 
 ## Table of Contents
-- [Introduction]
-- [Project Title]
-- [Description]
-- [How to Run File]
-- [Files Used]
+- Introduction
+- Project Title
+- Description
+- How to Run File
+- Files Used
 
 ## Introduction
 Hey everyone!
