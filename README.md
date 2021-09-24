@@ -1,4 +1,4 @@
-# Hello World
+# **Hello World**
 
 ## Table of Contents
 - Introduction
@@ -12,6 +12,7 @@ Hey everyone!
 
 My name is Kayle Fairchild and I am a junior studying Finance and Business Analytics & Information Systems at the University of Iowa. 
 A few of my hobbies include longboarding, watching football, chess, and playing tennis. 
+[My LinkedIn Account](https://www.linkedin.com/in/kayle-fairchild/)
 
 ## Project Title
 
